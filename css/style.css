@@ -37,6 +37,7 @@ body {
     background-image: url("../img/sand3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
 }
 
 footer {
@@ -49,6 +50,7 @@ footer {
     bottom: 0;
     right: 0;
     width: 100%;
+    position: absolute;
     }
     
     footer p{
